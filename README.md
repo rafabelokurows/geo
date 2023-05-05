@@ -1,1 +1,3 @@
-# Code snippets for working with geographical data using Python
+# Geographical data using Python and R
+
+Here you'll find not so random stuff that should help obtain, transform, analyze and plot geographical data using Python and R
